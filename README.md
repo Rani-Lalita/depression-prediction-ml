@@ -13,7 +13,8 @@ The final model generates predictions based on input features and demonstrates h
 - Python  
 - NumPy  
 - Pandas  
-- Scikit-learn  
+- Scikit-learn
+- Seaborn
 - Matplotlib  
 
 ---
